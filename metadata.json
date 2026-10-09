@@ -1,0 +1,6 @@
+{
+  "name": "VideoAI",
+  "description": "Google Video AI con sonido real: genera videos cinemáticos a partir de texto o imágenes de la galería/Google Fotos con audio y duración personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
